@@ -4,6 +4,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/etiennebacher/circletyper/workflows/R-CMD-check/badge.svg)](https://github.com/etiennebacher/circletyper/actions)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/circletyper)](https://CRAN.R-project.org/package=circletyper)
 <!-- badges: end -->
 
 The goal of `{circletyper}` is to enable text curving in Shiny apps, by
@@ -11,9 +13,11 @@ adapting [CircleType.js](https://github.com/peterhry/CircleType) into R.
 
 ## Installation
 
-For now, you can only install the development version of
-`{circletyper}`:
-
+You can install the CRAN version of `{circletyper}` with:
+``` r
+install.packages("circletyper")
+```
+or the development version with:
 ``` r
 # install.packages("devtools")
 devtools::install_github("etiennebacher/circletyper")
@@ -53,5 +57,5 @@ shinyApp(ui, server)
 ```
 
 | Initial              | After clicking on the button |
-| -------------------- | ---------------------------- |
+|----------------------|------------------------------|
 | ![](demo_before.png) | ![](demo_after.png)          |

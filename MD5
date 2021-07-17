@@ -1,11 +1,12 @@
-f1fb38d6020d33aea5edffe8328b36ff *DESCRIPTION
+2e5a7303336379d40390d8daac8d39ee *DESCRIPTION
 461ad562c44c202ff0dadf06254da87b *LICENSE
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+5c1cab548953d141f4651378756834ca *NEWS.md
 da7f12eee447a61f156fbbb9781d19a7 *R/circletype.R
 fe96462f82706da6ab0119753d3feeeb *R/remove_circletype.R
 4c420455faff4dad447adf4eea0cb934 *R/use_circletype.R
 a0884e42c95f9e2dccb22825c674cedc *R/zzz.R
-e1c8fd4e4faa78ff40c53a3097b23457 *README.md
+752e9e5265754a61d69b1e19d01f1e24 *README.md
 4bf2140c3d25636facada532085737ad *inst/WORDLIST
 4e0dc229258f21a6727ce7631902735d *inst/circletype/circletype.min.js
 c1578a773f8933575f005ea00bc0926a *inst/custom/destroy.js
